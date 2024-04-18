@@ -1,0 +1,17 @@
+commit 544eb3dca6a8d72a74568e311fe8ea5dbd939bdf (HEAD -> master)
+Author: andrej <andrejzaevski123@gmail.com>
+Date:   Fri Apr 19 01:27:33 2024 +0200
+
+    Final commit
+
+commit 96d8674145aa9f77ee3f859f07acc9f8943604d0 (origin/master)
+Author: andrej <andrejzaevski123@gmail.com>
+Date:   Fri Apr 19 00:22:53 2024 +0200
+
+    Add starter code
+
+commit 11e5262332781542ad31c6a8b655e63a7b264f9f
+Author: andrej <andrejzaevski123@gmail.com>
+Date:   Fri Apr 19 00:03:23 2024 +0200
+
+    Initial commit
